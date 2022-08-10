@@ -53,6 +53,7 @@ contract Lottery{
     
 }
 
+// https://rinkeby.etherscan.io/tx/0xc6a991f98f2348cf629938e27fd1ce510bf12486d8b8cd2d67e85f778fac452c
 
 // receive function is a special function cannot accept variable and must be external and payable;
 //  Syntex : receive () external payable{}
